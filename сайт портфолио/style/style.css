@@ -1,0 +1,9 @@
+h1{
+    color: black;
+}
+
+p{
+    border:solid brown ;
+    margin: 25px;
+    padding: 25px;
+}
